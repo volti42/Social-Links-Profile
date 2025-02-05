@@ -28,7 +28,7 @@ body{
     object-fit: cover;
     width: 29%;
 }
-h1{
+h2{
     color: hsl(0, 0%, 100%);
     font-weight: 400;
 }
