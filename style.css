@@ -28,7 +28,7 @@ body{
     object-fit: cover;
     width: 29%;
 }
-h2{
+h1{
     color: hsl(0, 0%, 100%);
     font-weight: 400;
 }
@@ -41,7 +41,7 @@ p{
 }
 .titles{
     line-height: 1.5;
-    padding-top: 24px;
+    padding-top: 15px;
 }
 .b{
     display: grid;
