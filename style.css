@@ -28,11 +28,11 @@ body{
     object-fit: cover;
     width: 23%;
 }
-h1{
+h2{
     color: hsl(0, 0%, 100%);
     font-weight: 600;
 }
-h2{
+h3{
     color: hsl(75, 94%, 57%);
     font-weight: 400;
 }
