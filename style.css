@@ -30,7 +30,8 @@ body{
 }
 h1{
     color: hsl(0, 0%, 100%);
-    font-weight: 400;
+    font-weight: 700;
+    font-size: x-large
 }
 .description{
     color: hsl(75, 94%, 57%);
