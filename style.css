@@ -30,11 +30,11 @@ body{
 }
 h1{
     color: hsl(0, 0%, 100%);
-    font-weight: 700;
+    font-weight: 600;
 }
-h2{
+.description{
     color: hsl(75, 94%, 57%);
-    font-weight: 400;
+    font-weight: 700;
 }
 p{
     color: hsl(0, 0%, 100%);
